@@ -1,0 +1,25 @@
+# Archivos de entorno
+.env
+
+# Entorno virtual (por si usaste venv)
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos de sistema
+__pycache__/
+*.py[cod]
+*.swp
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos de Render (opcional si no quieres que lo detecte automáticamente)
+render.yaml
